@@ -7,4 +7,9 @@ https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-suppo
 27.04.2023 [Failed to attach disk 'LocalState\ext4.vhdx' to WSL2: The system cannot find the file specified](https://github.com/microsoft/wsl/issues/10032) :
 wsl --unregister ubuntu
 
+- - -
+Not work              
+23.10.2021 [Как запустить рабочий стол Linux в Windows с помощью WSL](https://linuxcool.net/instrukczii/kak-zapustit-rabochij-stol-linux-v-windows-s-pomoshhyu-wsl/)
+
+
 
