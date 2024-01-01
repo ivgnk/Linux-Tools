@@ -9,8 +9,8 @@ wsl --unregister ubuntu
 
 - - -
 Not work              
-23.10.2021 [Как запустить рабочий стол Linux в Windows с помощью WSL](https://linuxcool.net/instrukczii/kak-zapustit-rabochij-stol-linux-v-windows-s-pomoshhyu-wsl/)
-29.08.2022 [video: Как установить графическую оболочку на linux сервер?! (Ubuntu/Debian) | рабочий стол в linux | Xfce](https://www.youtube.com/watch?v=robxaYCXhfA)
+23.10.2021 [Как запустить рабочий стол Linux в Windows с помощью WSL](https://linuxcool.net/instrukczii/kak-zapustit-rabochij-stol-linux-v-windows-s-pomoshhyu-wsl/)                    
+29.08.2022 [video: Как установить графическую оболочку на linux сервер?! (Ubuntu/Debian) | рабочий стол в linux | Xfce](https://www.youtube.com/watch?v=robxaYCXhfA)                    
 
 
 
