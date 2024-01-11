@@ -13,5 +13,14 @@ Not work
 29.08.2022 [video: Как установить графическую оболочку на linux сервер?! (Ubuntu/Debian) | рабочий стол в linux | Xfce](https://www.youtube.com/watch?v=robxaYCXhfA)                    
 
 
+# Mobile operating systems        
+https://en.wikipedia.org/wiki/Comparison_of_mobile_operating_systems         
 
+https://en.wikipedia.org/wiki/PureOS                
+https://en.wikipedia.org/wiki/Sailfish_OS          
+https://en.wikipedia.org/wiki/Ubuntu_Touch             
+https://en.wikipedia.org/wiki/Tizen            
 
+## Store 
+2020 https://medium.com/codixlab/top-best-independent-app-stores-for-free-apps-2020-adf25bc55fd3          
+**https://f-droid.org**             
